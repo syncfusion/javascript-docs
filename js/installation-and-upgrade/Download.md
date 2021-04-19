@@ -65,7 +65,9 @@ N> Online Installer have been introduced from the release version 16.2.
 
 ![License Downloads](download-images/Download_img3.png)
 
-N> You can generate the license key for your licensed products from [License & Downloads](https://www.syncfusion.com/account/downloads) page. This license key will be required only from release version 16.2. To know more about License key, refer this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key). 
+N> You can generate the license key for your licensed products from [License & Downloads](https://www.syncfusion.com/account/downloads) page. This license key will be required only from release version 16.2. To know more about License key, refer this [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key).
+
+But, if you want the free download only, search for "javascript download" in [Google](https://google.com).
 
   
 
